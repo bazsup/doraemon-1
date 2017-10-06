@@ -3,7 +3,6 @@ import Header from './Header'
 import LogoIMG from './logo.svg'
 import './static/css/bootstrap.min.css'
 
-
 import styled from 'styled-components'
 
 const Card = styled.div`
