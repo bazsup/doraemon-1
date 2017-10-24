@@ -33,7 +33,9 @@ const Logo = styled.img.attrs({
 const App = () => (
   <div>
     Hello doraemon <br/>
-    ให้อัลปาก้าทำนายกันน
+    ให้อัลปาก้าทำนายกันน <br/>
+    Koisuru Fortune Cookiee!
+    
     <Header message="สวัสดี โดเรมอน"/>
     <Header>
       ฉันเป็นลูกแกไง
