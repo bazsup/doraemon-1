@@ -32,8 +32,8 @@ const Logo = styled.img.attrs({
 
 const App = () => (
   <div>
-    Hello doraemon <br/>
-    ให้อัลปาก้าทำนายกันน
+    Hello Alpaca <br/>
+    ให้อัลปาก้าทำนายกันน <br/>
     <Header message="สวัสดี โดเรมอน"/>
     <Header>
       ฉันเป็นลูกแกไง
@@ -48,7 +48,7 @@ const App = () => (
     </ButtonPrimary>
     <div className="container">
       <div className="col-12">
-        asd
+        column 12 grid
       </div>
     </div>
   </div>
