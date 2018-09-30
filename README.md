@@ -33,3 +33,6 @@ $ yarn add <package-name>
   ```
 ___
 ### Let's enjoy </>
+
+## Author
+- [bazsup](https://github.com/bazsup)
